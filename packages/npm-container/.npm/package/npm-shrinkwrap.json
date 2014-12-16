@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "rethinkdb": {
+      "version": "1.15.0-0",
+      "dependencies": {
+        "bluebird": {
+          "version": "2.3.11"
+        }
+      }
+    }
+  }
+}
